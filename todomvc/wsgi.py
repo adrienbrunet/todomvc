@@ -1,11 +1,6 @@
-"""
-WSGI config for todomvc project.
+# coding: utf-8
 
-It exposes the WSGI callable as a module-level variable named ``application``.
-
-For more information on this file, see
-https://docs.djangoproject.com/en/1.8/howto/deployment/wsgi/
-"""
+# Adrien Brunet <brunet.adrien@gmail.com>
 
 import os
 
